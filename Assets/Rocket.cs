@@ -85,9 +85,10 @@ public class Rocket : MonoBehaviour
     private void LoadLastLevel()
     {
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
-        int totalScene = SceneManager.sceneCountInBuildSettings;
-        int lastSceneIndex = (currentSceneIndex - 1 + totalScene) % totalScene;
-        SceneManager.LoadScene(lastSceneIndex);
+        if (currentSceneIndex == 0)
+            SceneManager.LoadScene(0);
+        else
+            SceneManager.LoadScene(currentSceneIndex - 1);
     }
 
     private void RespondToThrustInput()
