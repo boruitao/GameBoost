@@ -1,5 +1,5 @@
 # Game_Boost
-This repository contains the Unity C# implementation of the game Boost. [link to the game](https://legacy.sharemygame.com/share/389598b9-baf0-41de-af15-5fcbd24bb16d)
+This repository contains the Unity C# implementation of the game Boost. Please enjoy this game using the following link: [link to the game](https://legacy.sharemygame.com/share/566621fb-9626-4109-bea5-bccb071d5857)
 
 #### The rule: 
 The player controls the movement of the rocket and takes the rocket from the blue launching pad to the green landing pad. 
