@@ -10,4 +10,6 @@ Keyboard controller:
  * A: turn left
  * D: turn right
 
-<img src="https://github.com/boruitao/Game_Boost/blob/master/images/scene1.png" width="48%" height="300">       <img src="https://github.com/boruitao/Game_Boost/blob/master/images/scene2.png" width="48%" height="300">
+Here is the first scene of the game:
+
+<img src="https://github.com/boruitao/Game_Boost/blob/master/images/scene1.png" width="600" height="300">
